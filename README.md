@@ -1,23 +1,35 @@
+# 2024 이노씽크 메이커톤
+
+
+## 주제
+인천지역 안전 및 재난 문제 해결 시제품 개발
+
+## 개요
+알권리는 누구에게나 있다
+제품의 이름을 통해 각 사용자에게 맞는 성분별 권장 섭취 비율, 알레르기 정보를 알려주는 프로그램을 만들면 어떨까
+- 저시력자의 식품 정보 알권리 보장을 통한 식품 안전 문제 해결
+---
+
 ## 1. .env 파일 만들기
   
-
+```bash
 SUPABASE_URL=https://npgmcsvclcnvmonrirvj.supabase.co
-SUPABASE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5wZ21jc3ZjbGNudm1vbnJpcnZqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzE1NzYyMjcsImV4cCI6MjA0NzE1MjIyN30.rgJBLM8oKyV5zveZx_sDbOKF0YKfjBgDs7Y9z_mLqd4
+SUPABASE_KEY=service key
 
-API_KEY_NAME=b0db4232c70c49289cd0 
-API_KEY_DETAIL=oqdC/qEnEV/uF3Vy2pVZd4qFqZQTJkEVnv4wvLJIP/adzKf/BOn5/zQSQ/g0mEV5s53E7bSwXJ5wz0V8UNbGlw==
-
+API_KEY_NAME=key_name
+API_KEY_DETAIL=api_key
+```
 
 ## 2. requiremets.txt 설치
 
-
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## 3. streamlit run db_manage.py
 
-![스크린샷 2024-11-12 170801](https://github.com/user-attachments/assets/a16e72a3-9b47-48a4-9a93-f049e1c57e4c)
-
-![스크린샷 2024-11-12 170814](https://github.com/user-attachments/assets/3a9b553d-4d46-491a-81f6-6e867d20772c)
-
+<img src="https://github.com/user-attachments/assets/a16e72a3-9b47-48a4-9a93-f049e1c57e4c" style="width:50%;"/>
+<img src="https://github.com/user-attachments/assets/3a9b553d-4d46-491a-81f6-6e867d20772c" style="width:50%;"/>
 
 
 ## 4. main4.py
@@ -90,11 +102,26 @@ Item 내용: {
  - 우유: 주 git init  필요한 알레르기 성분이 포함되어 있습니다.
 
 
+---
+# DATABASE 수정을 위한 STREAMLIT 구현
 
-## 수정된 streamlit design 입니다.
-![image1](https://github.com/user-attachments/assets/cb90a035-0c53-40f1-993e-90c1b051c4ef)
+<img src="https://github.com/user-attachments/assets/cb90a035-0c53-40f1-993e-90c1b051c4ef" style="width:50%;"/>
 
-![image 2](https://github.com/user-attachments/assets/6bd7fd10-9f5e-441b-90da-b6fe68593466)
+<img src="https://github.com/user-attachments/assets/6bd7fd10-9f5e-441b-90da-b6fe68593466" style="width:30%;"/>
+
+## DB
+
+<img src="https://github.com/kimminsu38oo/Scanfood-2024-innothink-final/blob/main/readmeref/diagram.png?raw=true" style="width:50%;"/>
+
+
+## 흐름도
+<img src="https://github.com/kimminsu38oo/Scanfood-2024-innothink-final/blob/main/readmeref/%EA%B5%AC%EC%84%B1%EB%8F%84.png?raw=true" style="width:50%;"/>
+
+---
+<img src="https://github.com/user-attachments/assets/ad7cd532-cd31-41fe-b93a-efea230d9bae" height="350"/>
+
+---
+
 
 
 
