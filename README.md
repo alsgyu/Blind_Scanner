@@ -5,7 +5,8 @@
 인천지역 안전 및 재난 문제 해결 시제품 개발
 
 ## 개요
-알권리는 누구에게나 있다
+알권리는 누구에게나 있다.
+
 제품의 이름을 통해 각 사용자에게 맞는 성분별 권장 섭취 비율, 알레르기 정보를 알려주는 프로그램을 만들면 어떨까
 - 저시력자의 식품 정보 알권리 보장을 통한 식품 안전 문제 해결
 ---
@@ -115,7 +116,7 @@ Item 내용: {
 
 
 ## 흐름도
-<img src="https://github.com/kimminsu38oo/Scanfood-2024-innothink-final/blob/main/readmeref/%EA%B5%AC%EC%84%B1%EB%8F%84.png?raw=true" style="width:50%;"/>
+<img src="https://github.com/kimminsu38oo/Scanfood-2024-innothink-final/blob/main/readmeref/%EA%B5%AC%EC%84%B1%EB%8F%84.png?raw=true" style="width:60%;"/>
 
 ---
 <img src="https://github.com/user-attachments/assets/ad7cd532-cd31-41fe-b93a-efea230d9bae" height="350"/>
