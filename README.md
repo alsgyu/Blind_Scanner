@@ -49,23 +49,15 @@ PS D:\ICBM> python main4.py
  - 우유: 주의가 필요한 알레르기 성분이 포함되어 있습니다.
 
 
----
-# DATABASE 수정을 위한 STREAMLIT 구현
+-----
 
-<img src="https://github.com/user-attachments/assets/cb90a035-0c53-40f1-993e-90c1b051c4ef" style="width:30%;"/>
+## DATABASE 수정을 위한 STREAMLIT 구현
 
-<img src="https://github.com/user-attachments/assets/6bd7fd10-9f5e-441b-90da-b6fe68593466" style="width:30%;"/>
-
-## DB
-
-<img src="https://github.com/kimminsu38oo/Scanfood-2024-innothink-final/blob/main/readmeref/diagram.png?raw=true" style="width:30%;"/>
+<img src="https://github.com/user-attachments/assets/cb90a035-0c53-40f1-993e-90c1b051c4ef" style="width:30%;"/> <img src="https://github.com/user-attachments/assets/6bd7fd10-9f5e-441b-90da-b6fe68593466" style="width:30%;"/> <img src="https://github.com/kimminsu38oo/Scanfood-2024-innothink-final/blob/main/readmeref/diagram.png?raw=true" style="width:30%;"/>
 
 
 ## 흐름도
-<img src="https://github.com/kimminsu38oo/Scanfood-2024-innothink-final/blob/main/readmeref/%EA%B5%AC%EC%84%B1%EB%8F%84.png?raw=true" style="width:30%;"/>
-
----
-<img src="https://github.com/user-attachments/assets/ad7cd532-cd31-41fe-b93a-efea230d9bae" height="350"/>
+<img src="https://github.com/kimminsu38oo/Scanfood-2024-innothink-final/blob/main/readmeref/%EA%B5%AC%EC%84%B1%EB%8F%84.png?raw=true" style="width:30%;"/> <img src="https://github.com/user-attachments/assets/ad7cd532-cd31-41fe-b93a-efea230d9bae" height="300"/>
 
 ---
 
