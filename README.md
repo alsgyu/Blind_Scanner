@@ -57,7 +57,7 @@ PS D:\ICBM> python main4.py
 
 
 ### '24.10.03. ~ '24.11.17.
-<img src="https://github.com/kimminsu38oo/Scanfood-2024-innothink-final/blob/main/readmeref/%EA%B5%AC%EC%84%B1%EB%8F%84.png?raw=true" style="width:33%;"/> <img src="https://github.com/user-attachments/assets/ad7cd532-cd31-41fe-b93a-efea230d9bae" height="300"/>
+<img src="https://github.com/kimminsu38oo/Scanfood-2024-innothink-final/blob/main/readmeref/%EA%B5%AC%EC%84%B1%EB%8F%84.png?raw=true" style="width:34%;"/> <img src="https://github.com/user-attachments/assets/ba83b202-f8fe-4ef6-8aa1-a4a162068269" style="width:13%;"/> <img src="https://github.com/user-attachments/assets/ad7cd532-cd31-41fe-b93a-efea230d9bae" height="306"/>
 
 ---
 
