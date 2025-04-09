@@ -56,8 +56,8 @@ PS D:\ICBM> python main4.py
 <img src="https://github.com/user-attachments/assets/cb90a035-0c53-40f1-993e-90c1b051c4ef" style="width:30%;"/> <img src="https://github.com/user-attachments/assets/6bd7fd10-9f5e-441b-90da-b6fe68593466" style="width:30%;"/> <img src="https://github.com/kimminsu38oo/Scanfood-2024-innothink-final/blob/main/readmeref/diagram.png?raw=true" style="width:30%;"/>
 
 
-## 흐름도
-<img src="https://github.com/kimminsu38oo/Scanfood-2024-innothink-final/blob/main/readmeref/%EA%B5%AC%EC%84%B1%EB%8F%84.png?raw=true" style="width:30%;"/> <img src="https://github.com/user-attachments/assets/ad7cd532-cd31-41fe-b93a-efea230d9bae" height="300"/>
+### '24.10.03. ~ '24.11.17.
+<img src="https://github.com/kimminsu38oo/Scanfood-2024-innothink-final/blob/main/readmeref/%EA%B5%AC%EC%84%B1%EB%8F%84.png?raw=true" style="width:33%;"/> <img src="https://github.com/user-attachments/assets/ad7cd532-cd31-41fe-b93a-efea230d9bae" height="300"/>
 
 ---
 
