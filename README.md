@@ -29,8 +29,8 @@ API_KEY_DETAIL=api_key
 
 ## 3. streamlit run db_manage.py
 
-<img src="https://github.com/user-attachments/assets/a16e72a3-9b47-48a4-9a93-f049e1c57e4c" style="width:50%;"/>
-<img src="https://github.com/user-attachments/assets/3a9b553d-4d46-491a-81f6-6e867d20772c" style="width:50%;"/>
+<img src="https://github.com/user-attachments/assets/a16e72a3-9b47-48a4-9a93-f049e1c57e4c" style="width:30%;"/>
+<img src="https://github.com/user-attachments/assets/3a9b553d-4d46-491a-81f6-6e867d20772c" style="width:30%;"/>
 
 
 ## 4. main4.py
@@ -41,7 +41,7 @@ PS D:\ICBM> python main4.py
 1. 제품 이름: 오뚜기 진라면 순한맛
 2. 제품 번호: 19860309018680
 
-3. 요청 url:  http://apis.data.go.kr/B553748/CertImgListServiceV3/getCertImgListServiceV3?ServiceKey=oqdC%2FqEnEV%2FuF3Vy2pVZd4qFqZQTJkEVnv4wvLJIP%2FadzKf%2FBOn5%2FzQSQ%2Fg0mEV5s53E7bSwXJ5wz0V8UNbGlw%3D%3D&prdlstReportNo=19860309018680&returnType=json&numOfRows=1
+3. 요청 url:  {...}
 응답 데이터: {...}
 
 5. 알레르기 정보:
