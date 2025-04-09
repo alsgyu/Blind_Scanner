@@ -33,7 +33,7 @@ API_KEY_DETAIL=api_key
 <img src="https://github.com/user-attachments/assets/3a9b553d-4d46-491a-81f6-6e867d20772c" style="width:30%;"/>
 
 
-## 4. main4.py
+## 4. main.py
 
 PS D:\ICBM> python main4.py
 >>
